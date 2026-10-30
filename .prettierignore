@@ -1,0 +1,9 @@
+demo/index.html
+demo/SHA256SUMS.txt
+demo/build-info.json
+demo/*.json
+package-lock.json
+node_modules
+dist
+test-results
+playwright-report

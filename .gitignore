@@ -1,0 +1,16 @@
+node_modules/
+dist/
+test-results/
+playwright-report/
+.env*
+.local/
+*.log
+*.tsbuildinfo
+*.pem
+*.key
+*.jks
+*.keystore
+*.p12
+*.pfx
+.DS_Store
+Thumbs.db

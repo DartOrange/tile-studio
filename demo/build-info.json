@@ -1,0 +1,35 @@
+{
+  "product": "Tile Studio",
+  "version": "1.0.0",
+  "sourceRevisionAtBuild": "uncommitted",
+  "sourceNote": "Build may include working-tree changes. The containing Git commit is the authoritative source snapshot.",
+  "node": "v26.13.0",
+  "esbuild": "0.28.2",
+  "sourceSha256": {
+    "index.html": "2223ffd43c344048a034739631ee891e43695701d2ef22aa8917c4223440eba6",
+    "package-lock.json": "b8e37bb8bae1c323b7ce8fc44b78cb9cea70f9fc69da7f819fb3cc92b1919ade",
+    "package.json": "5343d1419c2d005f0f32ff132f8e4ab35552c7572d6afdf9086a79d49ae72532",
+    "scripts/build.mjs": "a443bcefd1af8aa7306a402a916e65f9c952a703fbe25c3eabb61247977b2469",
+    "scripts/dev.mjs": "47bbba09ba2a337f33f740b7fa9bc7d7f345c3560c0968b9656abd4e9a87cbee",
+    "scripts/verify-package.mjs": "7bb96acedcd8473b4a0d5749c1b079279df3c2205176213534868daa7ebfb55e",
+    "src/draft.ts": "741bce205de7d88f99e2afc81bb89975e4a97f51c7a5229319c5c326eeeebd9b",
+    "src/geometry.ts": "1f81b9b56aaefcfe0a9a898cff5a0fc3146b1850d8bab36567a40cc5c0788a5e",
+    "src/history.ts": "c7f6888ab0fe1e9c1802a27ab68a6061a8043c33dae25559f412a1a42827f49b",
+    "src/icons.ts": "d45d689e91c79bcd18d68d1d5596006b206790a0da39f09137d11f423cc10a8a",
+    "src/main.ts": "51ef1aec3652206584f9affe9fc80e59e5d93ee70037b85934ce639e4352c78b",
+    "src/model.ts": "7f7b618d8d3264a70813aee0684ad76a34de7627fe8f2606c81dc77b461e9a43",
+    "src/style.css": "d281b42c043a4164555edd74bfa2a49b6279e285a30549c424192411de76dc59",
+    "src/tiles.ts": "e4d415bfac43cffc4e37d5f6c14d8f986f1bd38374e48ca77b2bc92678865ed7",
+    "src/ui.ts": "504f18bc060ef457b53c9a3bae5a0e38fead595971acdc83d1480086f5365cf8",
+    "tsconfig.json": "824f95ca20773ad3b67033dde77bb64b6bb72c2266307a275d82437a3dc95635"
+  },
+  "target": "Self-contained desktop browser HTML; classic inline script; no runtime dependencies",
+  "sha256": {
+    "index.html": "4df00809fe08975881d5c274eaaba02dfec9fd71749a191dd1c39c8f1bb5355f",
+    "willow-bay.tilemap.json": "58c365b3513b0dd3544ec0392d9b6eabf6b7e00fb80d7b095013d8cf29058233",
+    "invalid-map.json": "3629070a3f980921428f03b4e387c1283c0b21421ed2c4479a67fcc47eeac668",
+    "LICENSE.txt": "e2634d729d08ff113d35ff5aceafe0ed0121c0e5024311da0d96f41b2ae29755",
+    "THIRD_PARTY_NOTICES.md": "5d9f2963bd7cfb78040502797474c052a642c95e48dc7ebfb83b008e8d5595a8",
+    "README.md": "0bcedbe098f2cfedf1d7471a570c76e5f2b741a543bb6b7d5334cecc826a37bd"
+  }
+}
